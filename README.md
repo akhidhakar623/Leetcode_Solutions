@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0038-count-and-say) |
+| [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Enumeration
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
