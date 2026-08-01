@@ -5,16 +5,8 @@ class Solution {
         int max = 0;
         for(int i =0;i<=m-3;i++){
             for(int j=0;j<=n-3;j++){
-                int sum =0;
-                for(int x =i;x<i+3;x++){
-                    for(int y =j;y<j+3;y++){
-                        if(x==i) sum+=grid[x][y];
-                        if(x == i + 1 && y == j + 1) sum+= grid[x][y];
-                        if(x == i+2) sum+=grid[x][y];
-                    }
-                    
-                    
-                }
+                int sum =grid[i][j] + grid[i][j+1] + grid[i][j+2] + grid[i+1][j+1] + grid[i+2][j] + grid[i+2][j+1]+ grid[i+2][j+2];
+                
                 if(sum>max) max = sum;
             }
         }
