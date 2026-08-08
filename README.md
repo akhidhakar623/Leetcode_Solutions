@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3127-make-a-square-with-the-same-color](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3127-make-a-square-with-the-same-color) |
+| [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
+| [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 ## Enumeration
 |  |
 | ------- |
