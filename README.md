@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0038-count-and-say) |
+| [0520-detect-capital](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
