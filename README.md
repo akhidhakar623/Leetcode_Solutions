@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
