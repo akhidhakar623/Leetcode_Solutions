@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -171,9 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
