@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -177,9 +179,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
