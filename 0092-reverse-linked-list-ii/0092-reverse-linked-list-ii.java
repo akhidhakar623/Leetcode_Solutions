@@ -14,46 +14,38 @@ class Solution {
         if (head == null || left == right) {
             return head;
         }
-
-        ListNode l = head;
-
-        for (int i = 1; i < left - 1; i++) {
-            l = l.next;
-        }
-
-        ListNode m;
+        ListNode dummy = new ListNode(-1);
         
-        if (left == 1) {
-            m = head;
-        } else {
-            m = l.next;
-        }
-        ListNode r = head;
-        for (int i = 1; i < right; i++) {
-            r = r.next;
-        }
+        ListNode temp = dummy;
+        dummy.next = head;
 
-        ListNode rr = r.next;
-        r.next = null;
+        for (int i = 1; i <=left - 1; i++) {
+            temp = temp.next;
+        }
+        ListNode tail1 = temp;
+        ListNode head2 = temp.next;
+        for (int i = 1; i <= right-left+1; i++) {
+            temp = temp.next;
+        }
+        ListNode tail2 = temp;
+        ListNode head3 = temp.next;
+
+        tail1.next = null;
+        tail2.next = null;
 
 
         ListNode prev = null;
-        ListNode curr = m;
-
+        ListNode curr = head2;
+        ListNode fwd = null;
         while (curr != null) {
-            ListNode fwd = curr.next;
+            fwd = curr.next;
             curr.next = prev;
             prev = curr;
             curr = fwd;
         }
-        if (left == 1) {
-            head = prev;
-        } else {
-            l.next = prev;
-        }
+        tail1.next = tail2;
+        head2.next = head3;
 
-        m.next = rr;
-
-        return head;
+        return dummy.next;
     }
 }
