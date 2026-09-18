@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 ## Binary Search
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
