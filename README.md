@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0520-detect-capital](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
