@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0520-detect-capital](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
 ## Enumeration
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
