@@ -1,34 +1,37 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        StringBuilder sb = new StringBuilder(s);
+
+        char[] arr = s.toCharArray();
         Stack<Integer> st = new Stack<>();
 
-        for(int i =0;i<sb.length();i++){
-            char ch = s.charAt(i);
-            if(ch =='('){
-                st.push(i); // stack is store the adress of parenthesis 
+        for (int i = 0; i < arr.length; i++) {
+
+            if (arr[i] == '(') {
+                st.push(i);
             }
-            else if(ch ==')'){
-                if(!st.isEmpty()){
+            else if (arr[i] == ')') {
+
+                if (!st.isEmpty()) {
                     st.pop();
                 }
-                else{
-                    sb.setCharAt(i,'#'); // if last elemnt is closing parenthesis then set kardo index par # 
+                else {
+                    arr[i] = '#';
                 }
             }
         }
 
-        while(!st.isEmpty()){
-            sb.setCharAt(st.pop(),'#'); // bache hue parenthesis par bhi stringbuilder main usi index par # store kardo 
+        while (!st.isEmpty()) {
+            arr[st.pop()] = '#';
         }
 
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
 
-        for(int i =0;i<sb.length();i++){
-            if(sb.charAt(i) != '#'){ // last main agr # nahi hai to string main add karte jao
-                ans+=sb.charAt(i);
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != '#') {
+                ans.append(arr[i]);
             }
         }
-        return ans;
+
+        return ans.toString();
     }
 }
