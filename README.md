@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2938-separate-black-and-white-balls](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -250,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
