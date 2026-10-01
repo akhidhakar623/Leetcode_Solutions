@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
