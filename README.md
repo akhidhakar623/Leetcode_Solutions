@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3127-make-a-square-with-the-same-color](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3127-make-a-square-with-the-same-color) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tournament Sort
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
