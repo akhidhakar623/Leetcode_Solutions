@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0520-detect-capital](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0046-permutations) |
 ## Linked List
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
