@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0456-132-pattern) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
