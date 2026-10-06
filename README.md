@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3248-snake-in-matrix](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/3248-snake-in-matrix) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
