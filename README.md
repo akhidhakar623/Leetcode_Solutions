@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0456-132-pattern) |
@@ -307,8 +308,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
