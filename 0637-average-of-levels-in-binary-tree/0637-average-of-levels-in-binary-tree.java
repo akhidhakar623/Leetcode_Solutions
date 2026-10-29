@@ -19,16 +19,13 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         Double sum;
-        double count;
         while(!q.isEmpty()){
             int size = q.size();
             sum=0.00;
-            count =0.00;
             for(int i =0;i<size;i++){
                TreeNode node = q.remove();
                 if (node != null) {
                    sum += node.val;
-                   count++;
                 }
                 if(node.left!=null){
                     q.add(node.left);
@@ -37,7 +34,7 @@ class Solution {
                     q.add(node.right);
                 }
             }
-            ans.add(sum/count);
+            ans.add(sum/size);
         }
         return ans;
     }
