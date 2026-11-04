@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -419,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akhidhakar623/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
