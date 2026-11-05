@@ -1,18 +1,12 @@
 
 class Solution {
-    static int count=0;
+    int count=0;
     public int pathSum(TreeNode root, int targetSum) {
-        count =0;
-        findpath(root,targetSum);
-        return count;
-    }
-
-    public void findpath(TreeNode root, long targetSum){
-        if(root == null)  return ; 
-
+        if(root == null)  return 0; 
         paths(root,targetSum);
-        findpath(root.left,targetSum);
-        findpath(root.right,targetSum);
+        pathSum(root.left,targetSum);
+        pathSum(root.right,targetSum);
+        return count;
     }
 
     public void paths(TreeNode root, long targetSum){
